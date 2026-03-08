@@ -1,6 +1,6 @@
 # Gym Nutrition System
 
-A Python command-line app that generates personalized calorie targets and meal plans based on a user's fitness goal, body metrics, and activity level — with an estimated time-to-goal calculator.
+A Python command-line app that generates personalized calorie targets and meal plans based on a user's fitness goal, body metrics, and activity level, with an estimated time-to-goal calculator.
 
 ---
 
