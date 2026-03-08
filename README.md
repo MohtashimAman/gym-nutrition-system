@@ -48,19 +48,23 @@ Run all cells and follow the prompts in the output.
 ```
 PERSONALIZED NUTRITION REPORT
 ------------------------------
+
 Name: Ali
-Age: 22 | Gender: Male
-Weight: 80.0 kg | Height: 175.0 cm
-Activity: Moderately Active | Goal: Loss
-Daily Calorie Target: 2104 kcal
+Age: 22
+Gender: male
+Weight: 80.0 kg
+Height: 175.0 cm
+Activity level: Moderately Active
+Goal: Loss
+Daily Calorie Target: 2272 kcal
 
-Meal Plan:
-  Breakfast : Boiled Eggs + Brown Bread
-  Lunch     : Daal + 1 Roti + Cucumber
-  Dinner    : Chicken Handi (light oil) + Salad
-  Snacks    : Nuts (small handful)
+Selected meal plan:
+  Breakfast: Boiled Eggs + Brown Bread
+  Lunch: Daal + 1 Roti + Cucumber
+  Dinner: Chicken Handi (light oil) + Salad
+  Snacks: Nuts (small handful)
 
-Estimated time to lose 10 kg: ~5.5 months
+Estimated time to loss 10.0 kg: ~5.1 months.
 ------------------------------
 ```
 
